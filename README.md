@@ -8,7 +8,7 @@ Hey there, I am Victor 👋🏻
 🎓 Software Engineering and Mathematics Student @ The University of Auckland
 
 ### Personal Interests
-💻 Competitive Programming  
+💻 Programming Contests  
 🎨 Design  
 📷 Photography  
 🌍 Inclusive Solutions to Real-World Problems
